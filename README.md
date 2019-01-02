@@ -12,7 +12,7 @@ Clone the repository somewhere.
 chromium-browser --load-and-launch-app=/path/to/app/
 ```
 
-###### With browser
+###### From browser
 
 * Open browser (Chrome, Chromium)
 * go to `chrome://extensions`
