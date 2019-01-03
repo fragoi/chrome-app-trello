@@ -1,6 +1,6 @@
 # Trello Chrome App
 
-This is a simple chrome app that shows the Trello website.
+Chrome App to use Trello website in a window.
 
 ## Install
 
